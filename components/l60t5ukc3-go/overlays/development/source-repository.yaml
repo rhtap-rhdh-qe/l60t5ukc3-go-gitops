@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l60t5ukc3-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/l60t5ukc3-go
